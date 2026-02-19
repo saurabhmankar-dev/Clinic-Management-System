@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 07 09:36:55 IST 2025
+jakarta.persistence-api-3.0.0-sources.jar>central=
+jakarta.persistence-api-3.0.0.jar>central=
+jakarta.persistence-api-3.0.0.pom>central=
